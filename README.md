@@ -1,6 +1,7 @@
 # 📊 Results Summary Component
 
 Componente de exibição de resultados de um teste de habilidades, com score geral e categorias individuais (Reaction, Memory, Verbal e Visual). Meu primeiro projeto front-end desenvolvido de forma independente, reproduzindo um modelo de referência.
+
 🔗 **[Acesse o projeto ao vivo](https://lauraacioly.github.io/results-summary/)**
 
 ## 📌 Funcionalidades
